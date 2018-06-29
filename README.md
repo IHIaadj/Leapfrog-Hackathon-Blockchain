@@ -11,6 +11,7 @@ cryptography.hazmat (0.19.0) <br />
 ## Installation
   git clone https://github.com/IHIaadj/Leapfrog-Hackathon-Blockchain <br />
   py -3 -m venv venv <br />
+  venv\Scripts\activate <br />
   Python main.py <br />
   App will run on localhost:5000 <br />
   You can check the running application by sending requests to the server =) <br /> 
